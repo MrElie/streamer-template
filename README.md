@@ -6,13 +6,13 @@ This is really simple one page website. Super simple setup and easy to customize
 
 ## Demo
 
-[Check out the demo](https://streamer-site.netlify.com/)
+[Check out the demo](https://meouchi.net/)
 
 ## Getting Started
 
 1. Download.
 2. Fill out the config.json.
-3. Upload.
+4. Upload.
 
 Its really that simple!
 
